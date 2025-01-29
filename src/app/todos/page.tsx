@@ -2,7 +2,7 @@
 
 import React, { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { FiTrash2, FiPlus, FiFilter } from "react-icons/fi";
+import { FiTrash2, FiPlus} from "react-icons/fi";
 import { AiOutlineCheckCircle } from "react-icons/ai";
 
 interface Todo {
